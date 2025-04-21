@@ -1,0 +1,150 @@
+/* Remove white strip and fix navbar */
+.navbar {
+    background-color: #6f52ed; /* Ensure it matches your theme */
+    padding: 15px 0;
+    border-bottom: 4px solid white; /* Replace pseudo-element with border */
+}
+.logo-container {
+    display: flex;
+    align-items: center;
+    gap: 5px; /* Adjust spacing */
+}
+
+.logo-container img {
+    max-height: 40px; /* Adjust logo height */
+}
+
+.logo-text {
+    font-size: 20px;
+    font-weight: bold;
+    color: white;
+    display: flex;
+    align-items: center;
+    gap: 3px; /* Adjust spacing */
+}
+
+/* Graduation cap icon fix */
+.logo-text::before {
+    content: '🎓';
+    font-size: 22px;
+    position: static; /* Remove absolute positioning */
+}
+/* Center footer content */
+.footer {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    text-align: center;
+    background-color: #6f52ed;
+    padding: 40px 20px;
+    color: white;
+}
+
+.footer .column {
+    flex: 1;
+    min-width: 200px;
+    margin-bottom: 20px;
+    text-align: center; /* Ensure alignment */
+}
+
+.footer input[type="email"] {
+    width: 250px;
+    padding: 10px;
+    border-radius: 5px;
+    border: none;
+}
+
+/* Center the subscribe button properly */
+.footer form {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    flex-wrap: wrap;
+}
+
+.footer button {
+    background-color: #22c55e;
+    color: white;
+    padding: 10px 15px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+.footer button:hover {
+    background-color: #1a9c48;
+}
+
+/* Ensure navbar stacks properly on mobile */
+@media (max-width: 768px) {
+    .navbar {
+        flex-direction: column;
+        text-align: center;
+    }
+
+    .navbar .menu {
+        display: flex;
+        flex-direction: column;
+        gap: 10px;
+    }
+
+    /* Center logo on small screens */
+    .logo-container {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .logo-text {
+        font-size: 18px;
+    }
+}
+
+/* Adjust footer layout */
+@media (max-width: 768px) {
+    .footer {
+        flex-direction: column;
+        align-items: center;
+        text-align: center;
+        padding: 20px;
+    }
+
+    .footer .column {
+        width: 100%;
+        margin-bottom: 15px;
+    }
+
+    .footer input[type="email"] {
+        width: 80%;
+    }
+}
+
+/* Further adjustments for very small screens */
+@media (max-width: 480px) {
+    .navbar {
+        padding: 10px;
+    }
+
+    .logo-text {
+        font-size: 16px;
+    }
+
+    .footer {
+        font-size: 14px;
+    }
+
+    .footer input[type="email"] {
+        width: 90%;
+        padding: 8px;
+    }
+
+    .footer button {
+        padding: 8px 12px;
+    }
+}
+
+.header-area header-sticky background-header {
+    background-color: #6f52ed;
+    margin-top: 0;
+    top : 0;    
+}

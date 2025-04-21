@@ -1,0 +1,154 @@
+Array
+(
+    [payment_id] => pay_Q91s3m4It1e93Y
+    [u_id] => 12
+    [course_id] => 23
+    [amount] => 400.00
+)
+Array
+(
+    [payment_id] => pay_Q92CIIvTHJBqD1
+    [u_id] => 12
+    [course_id] => 16
+    [amount] => 500.00
+)
+Array
+(
+    [payment_id] => pay_Q92DCy4OqH1NEy
+    [u_id] => 12
+    [course_id] => 16
+    [amount] => 500.00
+)
+Array
+(
+    [payment_id] => pay_Q92S0B6SD6BgIJ
+    [u_id] => 35
+    [course_id] => 16
+    [amount] => 500.00
+)
+Array
+(
+    [payment_id] => pay_Q92jKWHS5q28YU
+    [u_id] => 10
+    [course_id] => 16
+    [amount] => 500.00
+)
+Array
+(
+    [payment_id] => pay_Q92n3uAy5CEq1f
+    [u_id] => 10
+    [course_id] => 23
+    [amount] => 400.00
+)
+Array
+(
+    [payment_id] => pay_Q93DDXrTcaZLPX
+    [u_id] => 10
+    [course_id] => 20
+    [amount] => 450.00
+)
+Array
+(
+    [payment_id] => pay_Q99lOOGj4DZhim
+    [u_id] => 12
+    [course_id] => 23
+    [amount] => 400.00
+)
+Array
+(
+    [payment_id] => pay_Q99yoKkmBhnwTr
+    [u_id] => 12
+    [course_id] => 50
+    [amount] => 2865.00
+)
+Array
+(
+    [payment_id] => pay_Q9vuf8gJ8azrEy
+    [u_id] => 17
+    [course_id] => 46
+    [amount] => 350.00
+)
+Array
+(
+    [payment_id] => pay_QAcWmjCNlV4crs
+    [u_id] => 12
+    [course_id] => 50
+    [amount] => 2865.00
+)
+Array
+(
+    [payment_id] => pay_QAdQgJYZ8xbBgg
+    [u_id] => 12
+    [course_id] => 45
+    [amount] => 700.00
+)
+Array
+(
+    [payment_id] => pay_QAgoRNrCi4p3UE
+    [u_id] => 9
+    [course_id] => 23
+    [amount] => 400.00
+)
+Array
+(
+    [payment_id] => pay_QAt8QIxooyK9Jh
+    [u_id] => 33
+    [course_id] => 16
+    [amount] => 500.00
+)
+Array
+(
+    [payment_id] => pay_QAtRZG8C39T3Xc
+    [u_id] => 31
+    [course_id] => 23
+    [amount] => 400.00
+)
+Array
+(
+    [payment_id] => pay_QCFhQ1KHitQ50I
+    [u_id] => 12
+    [course_id] => 46
+    [amount] => 350.00
+)
+Array
+(
+    [payment_id] => pay_QESs7lIFgtgfcK
+    [u_id] => 12
+    [course_id] => 38
+    [amount] => 990.00
+)
+Array
+(
+    [payment_id] => pay_QExbtjxWmQx64R
+    [u_id] => 12
+    [course_id] => 38
+    [amount] => 990.00
+)
+Array
+(
+    [payment_id] => pay_QExeMPSBNNmYbC
+    [u_id] => 12
+    [course_id] => 44
+    [amount] => 1000.00
+)
+Array
+(
+    [payment_id] => pay_QFHG4mYGIIcUGD
+    [u_id] => 38
+    [course_id] => 23
+    [amount] => 400.00
+)
+Array
+(
+    [payment_id] => pay_QHc9xhUPk3xh50
+    [u_id] => 31
+    [course_id] => 16
+    [amount] => 500.00
+)
+Array
+(
+    [payment_id] => pay_QHhmx8Ky9sDE1w
+    [u_id] => 31
+    [course_id] => 20
+    [amount] => 450.00
+)
